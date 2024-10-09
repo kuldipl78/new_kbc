@@ -1,0 +1,33 @@
+.heading{
+    color: rgb(7, 133, 212);
+}
+.btn-element{
+    background-color: rgb(115, 164, 127);
+    color: black;
+    width: 100px;
+    gap: 20px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+
+.btn-next{
+    padding: 10px;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.btn-next:hover {
+    opacity: 0.8; 
+    background-color: rgb(7, 21, 170); 
+    color: white;
+    cursor: pointer;
+}
+.feedback{
+    color: rgb(27, 169, 22);
+}
